@@ -1,0 +1,4 @@
+interface:
+  display_name: "Steam 评论分析"
+  short_description: "分析首周玩家口碑、问题标签与群体差异，形成产品、社区和宣发行动清单"
+  default_prompt: "使用 $steam-review-analysis 分析这款游戏的首周 Steam 评价，识别核心认可点、主要问题及 Top 3 行动建议。"
